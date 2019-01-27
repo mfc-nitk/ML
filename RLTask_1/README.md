@@ -2,8 +2,8 @@
 <h3>Implement linear regression from scratch using pandas,numpy and matplotlib</h3>
 </br>
 <p>
-  <ol>Read the csv, visualize the data, implement the Linear Regression</ol>
-  <ol>Use vectorized implementation, which means your implementation will work on any number of features</ol>
+  1. Read the csv, visualize the data, implement the Linear Regression
+  2. Use vectorized implementation, which means your implementation will work on any number of features
 </p>
 
 <h2>Use Jupyter notebook for your implementation</h2>
